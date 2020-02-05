@@ -1,0 +1,6 @@
+- "Capomulin" had the best survival rate, 21 out of 25 survived. The worst survival rate was for "Propriva", only 7 out of 26 survived.
+
+- "Ramicane" had the lowest mean metastatic sites for the timepoints observered. Highest was "Ketapril".
+
+- "Ramicane" was most effective in reducing the mean tumor size for the timepoints observered (by 22%).  Next most effective was "Capomulin" (by 19%).
+ 
